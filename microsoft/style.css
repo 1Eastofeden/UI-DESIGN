@@ -1,0 +1,120 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.div-1 {
+    position: absolute;
+
+}
+
+.image-1 {
+    position: relative;
+    width: 1370px;
+}
+
+.div-2 {
+    position: relative;
+    margin: auto;
+    width: 450px;
+    top: 140px;
+    height: 350px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.div-3 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.image-2 {
+    position: relative;
+}
+
+.h3-1 {
+    position: relative;
+    margin-top: 15px;
+    right: 2px;
+}
+
+.input-group-text {
+    position: relative;
+    right: 3px;
+    top: 10px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    outline: none;
+    text-align: left;
+    width: 363px;
+}
+
+hr {
+    color: black;
+    background-color: black;
+}
+
+.hr-1 {
+    position: relative;
+    right: 1px;
+    width: 360px;  
+}
+
+::placeholder {
+    position: relative;
+    right: 10px;
+}
+
+.a-1 {
+    position: relative;
+    text-decoration: none;
+    color: #0067b8;
+    font-size: 13.6px;
+}
+
+.a-2 {
+    position: relative;
+    text-decoration: none;
+    color: #0067b8;
+    font-size: 13.6px;
+    top: 10px;
+}
+
+.a-1:hover {
+    text-decoration: underline;
+}
+
+.a-2:hover {
+    text-decoration: underline;
+}
+
+button {
+    position: relative;
+    background-color: #0067b8;
+    color: white;
+    top: 50px;
+    left: 255px;
+    width: 108px;
+    height: 32px;
+    border: none;
+}
+
+button:hover {
+    background-color: #035899;
+}
+
+.div-4:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.div-5 {
+    position: relative;
+    
+}
