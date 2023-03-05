@@ -1,0 +1,200 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    font-family: "Yahoo Sans", "Helvetica Neue", Helvetica, Arial;
+}
+
+/* header */
+
+.header-div-1 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.header-image-1 {
+    position: relative;
+    width: 120px;
+    height: 36px;
+}
+
+.header-div-2 {
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 1240px;
+}
+
+.header-a-1 {
+    position: relative;
+    font-size: 13px;
+    color: #188FFF;
+    text-decoration: none;
+}
+
+/* section */
+
+.section-div-1 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 220px;
+}
+
+.section-p-1 {
+    position: relative;
+    font-size: 20px;
+}
+
+.section-p-2 {
+    position: relative;
+    font-size: 19px;
+    top: 5px;
+    color: #26282A;
+    font-weight: 400;
+}
+
+.section-p-3 {
+    position: relative;
+    font-size: 19px;
+    bottom: 10px;
+    color: #26282A;
+    font-weight: 400;
+}
+
+.section-p-4 {
+    position: relative;
+    font-size: 19px;
+    bottom: 25px;
+    color: #26282A;
+    font-weight: 400;
+}
+
+/* aside */
+
+.aside-div-1 {
+    position: absolute;
+    background-color: white;
+    height: 550px;
+    width: 360px;
+    margin-left: 900px;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.aside-div-1 {
+    position: absolute;
+}
+
+.aside-image-1 {
+    position: relative;
+    width: 90px;
+    height: 27px;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+
+.aside-div-3 {
+    position: relative;
+}
+
+.aside-p-1 {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 80px;
+    cursor: default;
+}
+
+.aside-p-2 {
+    position: relative;
+    font-size: 13px;
+    margin-left: 91px;
+    bottom: 10px;
+    cursor: default;
+}
+
+.aside-div-4 {
+    position: absolute;
+}
+
+.input-group-text {
+    position: relative;
+    width: 310px;
+    margin-left: 25px;
+    outline: none;
+    height: 40px;
+    margin-top: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+}
+
+.input-group-text::placeholder {
+    color: rgb(161, 161, 161);
+    position: relative;
+    right: 25px;
+    font-size: 14px;
+}
+
+.btn-1 {
+    position: relative;
+    background-color: #188FFF;
+    border-color: #188FFF;
+    margin-top: 130px;
+    width: 310px;
+    margin-left: 25px;
+    border-radius: 20px;
+    height: 43px;
+}
+
+.aside-div-6 {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.checkbox {
+    position: relative;
+}
+
+.label {
+    position: relative;
+    color: #188FFF;
+    cursor: pointer;
+}
+
+.aside-a-1 {
+    position: relative;
+    color: #188FFF;
+    text-decoration: none;
+    top: 20px;
+    margin-left: 40px;
+}
+
+.btn-2 {
+    position: relative;
+    width: 310px;
+    background-color: white;
+    color: #188FFF;
+    border-color: #188FFF;
+    border-radius: 20px;
+    top: 70px;
+}
+
+.btn-2:hover {
+    background-color: white;
+    color: #42597a;
+    border-color: #42597a;
+}
+
+.create-div-1 {
+    position: relative;
+    background-color: transparent;
+    width: 100px;
+    height: 30px;
+    bottom: 74px;
+    left: 140px;
+    color: red;
+    font-size: 13px;
+}
